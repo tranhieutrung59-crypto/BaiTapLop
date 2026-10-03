@@ -1,0 +1,7 @@
+Labname net-wireshark-intro
+
+Student: B24DCCE275
+ N -  extracted_packet
+What is automatically assessed for this lab:
+
+	extracted_packet: used wireshark to extract the proper packet

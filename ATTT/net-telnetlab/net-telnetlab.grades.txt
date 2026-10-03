@@ -1,0 +1,10 @@
+Labname net-telnetlab
+
+Student: B24DCCE275
+ Y -  telnetview
+ Y -  sshview
+ Y -  password_view
+What is automatically assessed for this lab:
+	password_view: Failed login as expected.
+	telnetview: viewed file from telnet
+	sshview: viewed file from ssh

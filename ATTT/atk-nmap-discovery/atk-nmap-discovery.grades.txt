@@ -1,0 +1,8 @@
+Labname atk-nmap-discovery
+
+Student: B24DCCE275
+ 2 nmap_count
+ Y -  did_ssh
+What is automatically assessed for this lab:
+	did_ssh: SSH'd to the proper port and viewed the target file
+	nmap_count: count of use of nmap

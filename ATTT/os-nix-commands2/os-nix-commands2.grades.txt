@@ -1,0 +1,34 @@
+Labname os-nix-commands2
+
+Student: B24DCCE275
+ 5 cmd_ls
+ 6 cmd_ll
+ 1 cmd_mkdir
+ 1 cmd_cd
+ 1 cmd_mv
+ 2 cmd_cp
+ 1 cmd_rm
+ 1 cmd_rmdir
+ 1 cmd_cat_passwd
+ 2 cmd_echo
+ 1 cmd_clear
+ 1 cmd_more
+ 1 cmd_echo_test
+ 1 cmd_cat_list
+ 1 cmd_man
+ 3 cmd_grep
+ 1 cmd_find
+ 1 cmd_sudo
+ 5 cmd_chmod
+ 3 cmd_ps
+ 1 cmd_kill
+ 1 cmd_who
+ 2 cmd_nano
+ 1 cmd_history
+ 1 cmd_ping
+ 1 cmd_run_pinger
+ 1 cmd_which
+ Y -  pwd
+What is automatically assessed for this lab:
+
+
