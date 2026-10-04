@@ -1,1 +1,13 @@
+@@ -0,0 +1,13 @@
+Labname aaa-users
 
+Student: B24DCCE128
+ Y -  bobcattart
+ Y -  bobcattmp
+ Y -  marybake
+ Y -  lisasudo
+What is automatically assessed for this lab:
+	bobcattart: User bob command with "tarts.txt"
+	bobcattmp: User bob command with tmpfile.txt
+	marybake: mary is member of bakers group
+	lisasudo: Lisa was added with sudo privileges
