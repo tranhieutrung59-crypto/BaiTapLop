@@ -1,0 +1,11 @@
+Labname atk-nmap-ssh
+
+Student: B24DCCE275
+ 3 nmap_count
+ 1 tshark_count
+ 1 tcpdump_count
+ Y -  sshview
+What is automatically assessed for this lab:
+
+	nmap_count, tshark_count, tcpdump_count: quantity of tool invocations
+	sshview: viewed the secret file using ssh
