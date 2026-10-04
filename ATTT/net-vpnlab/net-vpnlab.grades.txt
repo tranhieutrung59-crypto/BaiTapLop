@@ -1,0 +1,11 @@
+Labname net-vpnlab
+
+Student: B24DCCE275
+ Y -  tcpdump_http
+ Y -  vpn_running
+ Y -  vpn_encrypt
+What is automatically assessed for this lab:
+
+	tcpdump_http: run tcpdump on router and access index.html without encryption
+	vpn_running: start VPN successfully on both server and client
+	vpn_encrypt: access index.html via encrypted VPN tunnel

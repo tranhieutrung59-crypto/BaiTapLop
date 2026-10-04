@@ -1,0 +1,17 @@
+Labname cryp-macs-hash
+
+Student: B24DCCE275
+ 6 collide1_count
+ 1 collide2_count
+15 shasum_count
+ Y -  did_7_shasum
+ Y -  hashed_floppy
+ Y -  hashed_iou
+ Y -  openssl_key
+What is automatically assessed for this lab:
+
+	did_7_shasum: Did at least 7 different sha checksums
+	hashed_floppy: hashed the floppy
+	hashed_iou: hashed the iou file
+	collide1_count, collide2_count, shasum_count: Count of program invocation
+	openssl_key: brute force ran openssl to discover the key
