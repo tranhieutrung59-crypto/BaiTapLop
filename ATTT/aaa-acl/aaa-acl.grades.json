@@ -1,0 +1,22 @@
+{
+    "B24DCCE275.aaa-acl": {
+        "parameter": {},
+        "grades": {
+            "_fun_alice": false,
+            "did_trojan": false,
+            "bob_stuff_acl": true,
+            "alice_default": true,
+            "_account_alice": true,
+            "_account_read": true,
+            "_dumb": false
+        },
+        "firstlevelzip": {},
+        "secondlevelzip": {},
+        "actualwatermark": "9e94255509b1b2e8ce61365faa8085e3",
+        "expectedwatermark": "9e94255509b1b2e8ce61365faa8085e3",
+        "labcount": {
+            "start": [],
+            "redo": []
+        }
+    }
+}

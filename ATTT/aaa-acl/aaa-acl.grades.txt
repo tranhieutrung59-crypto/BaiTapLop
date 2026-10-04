@@ -1,0 +1,11 @@
+Labname aaa-acl
+
+Student: B24DCCE275
+ Y -  did_trojan
+ Y -  bob_stuff_acl
+ Y -  alice_default
+What is automatically assessed for this lab:
+	bob_stuff_acl: Changed ACL so alice can read bob's stuff
+	alice_default: Bob got default read access to newly created alice file
+	did_trojan: Does not check that result is readable, but does confirm fun altered
+		to read the accounting.txt file, and was run by alice.
