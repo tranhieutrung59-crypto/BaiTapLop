@@ -1,0 +1,6 @@
+Labname packet-introspection
+
+Student: B24DCCE275
+What is automatically assessed for this lab:
+
+

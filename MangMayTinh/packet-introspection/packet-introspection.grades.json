@@ -1,0 +1,14 @@
+{
+    "B24DCCE275.packet-introspection": {
+        "parameter": {},
+        "grades": {},
+        "firstlevelzip": {},
+        "secondlevelzip": {},
+        "actualwatermark": "7731b75221171263c63bb524663f282d",
+        "expectedwatermark": "7731b75221171263c63bb524663f282d",
+        "labcount": {
+            "start": [],
+            "redo": []
+        }
+    }
+}
