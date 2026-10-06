@@ -1,0 +1,9 @@
+Labname aaa-sshlab
+
+Student: B24DCCE275
+ Y -  sshview
+ Y -  sshlogin_nopsw
+What is automatically assessed for this lab:
+
+	sshview: Used ssh to view the file
+	sshlogin_nopsw: Was able to ssh without use of a password (used ssh keys)
